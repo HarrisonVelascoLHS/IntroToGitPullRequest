@@ -110,4 +110,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 Hi it's me Harrison! I figured out how to mark stuff down.
 
-Hi it's me again, I figured out how to submit a pull request!
+Hi, this a pull request, I finished the course.
